@@ -110,7 +110,7 @@ header {
     text-decoration: none;
     font-size: 1.2em;
     font-family: var(--font-principal);
-    border-radius: 50%;
+    border-radius: 50PX;
 
  }
  .boton:hover {
@@ -129,7 +129,7 @@ header {
     text-decoration: none;
     font-size: 1.2em;
     font-family: var(--font-principal);
-    border-radius: 50%;
+    border-radius: 50PX;
 
  }
  .boton1:hover {
@@ -210,7 +210,7 @@ header {
 }
 .timing { 
     width: 100%;
-    height: 90vh;
+    height: 80vh;
     background-image: url(./img-editables/timingpc.jpg);
     background-position: center;
     background-size: cover;
@@ -411,7 +411,7 @@ footer img {
 
 .timing { 
     width: 100%;
-    height: 80vh;
+    height: 90vh;
     background-image: url(./img-editables/TIMING.png);
     
 }
